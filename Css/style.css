@@ -36,11 +36,11 @@ html{
 }
 #navbar ul{
     display: flex;
-    font-family: 'Courier New', Courier, monospace;
+ font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #navbar ul li{
     list-style: none;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
 }
 #navbar ul li a{
     color: white;
